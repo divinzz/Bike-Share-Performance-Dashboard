@@ -48,6 +48,6 @@ Visual Elements Used:
 Bar charts, line charts, donut charts, stacked bar charts, KPI cards, tables
 
 Tools & Skills:
-Power BI, Data Analytics, Business Intelligence, Dashboard Design, Time Series Analysis, Data Modeling
+SQL, Power BI, Data Analytics, Business Intelligence, Dashboard Design, Time Series Analysis, Data Modeling
 
 ![Image](https://github.com/user-attachments/assets/72eb8467-5a91-49b8-8eed-4787c8dd1a89)
